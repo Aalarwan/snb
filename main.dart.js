@@ -70182,12 +70182,12 @@ M(a){var s,r=this,q=null,p=A.aiH("assets/logo.jpeg",150,150),o=t.rc,n=t.G
 o=A.b([p,new A.x2(r.d,B.By,B.Kg,B.Jq,B.Jr,!0,q),B.wq,new A.Dm(r.ga6V(),q,q,q,A.Cb(q,q,q,new A.bq(B.dq,o),q,q,q,q,new A.bq(B.j,o),q,q,q,q,q,q,q,q,q,q,q,q,q,q,q),q,q,!1,q,!0,B.Or,q),B.wq],n)
 p=r.e
 if(p!=null){s=A.QG(B.dq)
-o.push(A.lM(q,A.hV("Interest Amount: "+B.c.a4(p,2)+" Riyals",q,q,q,B.je,q,q),B.B,new A.dl(q,q,s,q,q,q,B.aJ),q,q,B.hV,q))}o.push(B.wp)
+o.push(A.lM(q,A.hV("Interest Amount: "+B.c.a4(p,2)+" Riyals",q,q,q,B.je,q,q),B.B,new A.dl(q,q,s,q,q,q,B.aJ),q,q,B.hV,1/0))}o.push(B.wp)
 if(r.e!=null){p=A.QG(B.dq)
-o.push(A.lM(q,A.hV("Total: "+A.k(r.f)+" Riyals",q,q,q,B.je,q,q),B.B,new A.dl(q,q,p,q,q,q,B.aJ),q,q,B.hV,q))}o.push(B.wp)
+o.push(A.lM(q,A.hV("Total: "+A.k(r.f)+" Riyals",q,q,q,B.je,q,q),B.B,new A.dl(q,q,p,q,q,q,B.aJ),q,q,B.hV,1/0))}o.push(B.wp)
 p=r.e
 if(p!=null){s=A.QG(B.dq)
-o.push(A.lM(q,A.afd(A.b([A.aiH("assets/lak.png",120,120),B.Jo,A.hV("="+A.k(p*125),q,q,q,B.je,q,q)],n),B.bE,B.dU),B.B,new A.dl(q,q,s,q,q,q,B.aJ),q,q,B.hV,q))}return new A.w5(new A.dp(B.AL,A.ae5(o,B.bz,B.qp,B.dU),q),q)}}
+o.push(A.lM(q,A.afd(A.b([A.aiH("assets/lak.png",120,120),B.Jo,A.hV("="+A.k(p*125),q,q,q,B.je,q,q)],n),B.bE,B.dU),B.B,new A.dl(q,q,s,q,q,q,B.aJ),q,q,B.hV,1/0))}return new A.w5(new A.dp(B.AL,A.ae5(o,B.bz,B.qp,B.dU),q),q)}}
 A.a8n.prototype={
 $0(){var s,r,q=this.a,p=this.b
 if(p<=1e6)s=2.35
